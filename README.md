@@ -92,7 +92,9 @@ python data_generator.py --mask_formula0 "(x / 500) ** 2 + (y / 300) ** 2 - 1" "
 
 The `batch_generator.py` script allows the bulk generation of datasets, incorporating predefined flow fields, boundaries, and random perturbations.
 
+## need help
 
+please visit: https://github.com/vanadiumD/piv-particl-image-generat
 ---
 
 # 说明文档
@@ -186,3 +188,7 @@ python data_generator.py --mask_formula0 "(x / 500) ** 2 + (y / 300) ** 2 - 1" "
 ## 批量处理
 
 `batch_generator.py` 脚本可用于批量生成数据集，包含预定义流场、边界以及随机扰动。
+
+## 需要帮助
+
+请浏览 https://github.com/vanadiumD/piv-particl-image-generat
